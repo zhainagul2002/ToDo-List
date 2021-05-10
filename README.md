@@ -1,5 +1,5 @@
 # TO DO LIST
-<i>Was created by: </i>
+<h2><b><i>Was created by: </i></b></h2>
 <p><b><i>Altynbek kyzy Zhainagul, </i></b></p>
 <p><b><i>Talantbekova Aruuke </i></b></p>
 <p><b><i>Kubanova Zhypargul </i></b></p>
