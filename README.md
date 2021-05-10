@@ -1,5 +1,4 @@
-# ToDo-List
-# PAINT
+# TO DO LIST
 <i>Was created by: </i>
 <p><i>Altynbek kyzy Zhainagul </i></p>
 <p><i>Talantbekova Aruuke </i></p>
@@ -14,10 +13,11 @@
 <p><i> • Color pallet.</i></p>
 <p><i> • Save drawings in Gallery.</i></p>
 <p><i>You can see all this details from the screenshots above:</i></p>
-<img src="Screenshots/4.jpg" width="90%" height="350">
-<img src="Screenshots/8.jpg" width="90%" height="350">
+<img src="Screenshots/1.jpg" width="90%" height="350">
+<img src="Screenshots/2.jpg" width="90%" height="350">
 <p><i> Some examples of the drawings.</i></p>
-<img src="Screenshots/11.jpg" width="90%" height="350">
-<img src="Screenshots/12.jpg" width="90%" height="350">
+<img src="Screenshots/3.jpg" width="90%" height="350">
+<img src="Screenshots/4.jpg" width="90%" height="350">
+<img src="Screenshots/5.jpg" width="90%" height="350">
 <p>Trello link: </p>
 <p><i> •• <a href="https://trello.com/b/ZMtutb7L/group-project">VIDEO</a> ••</i></p>
