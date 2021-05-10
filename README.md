@@ -1,8 +1,8 @@
 # TO DO LIST
 <i>Was created by: </i>
-<p><i>Altynbek kyzy Zhainagul </i></p>
-<p><i>Talantbekova Aruuke </i></p>
-<p><i>Kubanova Zhypargul </i></p>
+<p><b><i>Altynbek kyzy Zhainagul, </i></b></p>
+<p><b><i>Talantbekova Aruuke </i></b></p>
+<p><b><i>Kubanova Zhypargul </i></b></p>
 <h6></h6>
 <p><i>Paint app is a simple application where you can draw your own drawings and paint them.</i></p>
 <p><i>This project was generated with JavaFX, CSS and Scene Builder.</i></p>
